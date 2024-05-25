@@ -1,0 +1,33 @@
+.red{
+	height:40px ;
+	width: 200px;
+	border: 1px solid red;
+	background: red;
+	position: absolute;
+	z-index: 2;
+	
+}
+.green{
+	height:40px ;
+	width: 400px;
+	border: 1px solid green;
+	background: green;
+	position: absolute;
+	z-index: 1;
+}
+.teal{
+	height:40px ;
+	width: 600px;
+	border: 1px solid teal;
+	background: teal;
+	position: absolute;
+	z-index: ;
+}
+.purple{
+	height:40px ;
+	width: 800px;
+	border: 1px solid purple;
+	background: purple;
+	position: absolute;
+	z-index: -1;
+}
